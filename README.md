@@ -1,2 +1,2 @@
 # PageReplacementPFF
-Implementation of Page Fault Frequency(PFF) algorithm for page replacement in Operating Systems
+Implementation of Page Fault Frequency(PFF) algorithm in Java for page replacement in Operating Systems
